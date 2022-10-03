@@ -33,6 +33,7 @@ Hi everyone, I am Duy, an UCSD senior studying Mathematics and Computer Science.
 print("Hello World")
 ```
 - ***Java***
+
 ```
 class HelloWorld {
     public static void main(String[] args) {
@@ -41,6 +42,7 @@ class HelloWorld {
 }
 ```
 - ***C++***
+
 ```
 #include <iostream>
 
